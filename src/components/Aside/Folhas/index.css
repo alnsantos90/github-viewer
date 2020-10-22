@@ -1,0 +1,170 @@
+/* FOLHAS ESTILSO */
+/* FOLHA 1 */
+.folha1 {
+  position: absolute;
+  animation: folha1 infinite 10s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 1 */
+@keyframes folha1 {
+  0% { top: 45px; left: 30px; transform: rotate(60deg); }
+  25% { top: 90px; left: 230px; transform: rotate(100deg);}
+  50% { top: 230px; left: 100px; transform: rotate(180deg);}
+  100% { top: 45px; left: 30px; transform: rotate(60deg);}
+}
+
+
+/* FOLHA 2 */
+.folha2 {
+  position: absolute;
+  animation: folha2 infinite 15s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 2 */
+@keyframes folha2 {
+  0% { top: 80px; left: 600px; transform: rotate(40deg); }
+  25% { top: 90px; left: 400px; transform: rotate(90deg);}
+  50% { top: 230px; left: 490px; transform: rotate(10deg);}
+  100% { top: 80px; left: 600px; transform: rotate(40deg);}
+}
+
+/* FOLHA 3 */
+.folha3 {
+  position: absolute;
+  animation: folha3 infinite 12s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 3 */
+@keyframes folha3 {
+  0% { top: 400px; left: 60px; transform: rotate(20deg); }
+  25% { top: 530px; left: 100px; transform: rotate(130deg);}
+  50% { top: 300px; left: 320px; transform: rotate(90deg);}
+  100% { top: 400px; left: 60px; transform: rotate(20deg);}
+}
+
+/* FOLHA 4 */
+.folha4 {
+  position: absolute;
+  animation: folha4 infinite 8s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 4 */
+@keyframes folha4 {
+  0% { top: 20px; left: 320px; transform: rotate(60deg); }
+  25% { top: 100px; left: 250px; transform: rotate(130deg);}
+  50% { top: 230px; left: 400px; transform: rotate(180deg);}
+  100% { top: 20px; left: 320px; transform: rotate(420deg); }
+}
+
+
+/* FOLHA 5 */
+.folha5 {
+  position: absolute;
+  animation: folha5 infinite 15s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 5 */
+@keyframes folha5 {
+  0% { bottom: 20px; left: 320px; transform: rotate(60deg); }
+  25% { bottom: 100px; left: 250px; transform: rotate(130deg);}
+  50% { bottom: 230px; left: 400px; transform: rotate(180deg);}
+  100% { bottom: 20px; left: 320px; transform: rotate(420deg); }
+}
+
+/* FOLHA 6 */
+.folha6 {
+  position: absolute;
+  animation: folha6 infinite 12s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 6 */
+@keyframes folha6 {
+  0% { bottom: 80px; right: 600px; transform: rotate(40deg); }
+  25% { bottom: 90px; right: 400px; transform: rotate(90deg);}
+  50% { bottom: 230px; right: 490px; transform: rotate(10deg);}
+  100% { bottom: 80px; right: 600px; transform: rotate(40deg);}
+}
+
+/* FOLHA 7 */
+.folha7 {
+  position: absolute;
+  animation: folha7 infinite 19s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 7 */
+@keyframes folha7 {
+  0% { bottom: 400px; right: 60px; transform: rotate(20deg); }
+  25% { bottom: 530px; right: 100px; transform: rotate(130deg);}
+  50% { bottom: 300px; right: 320px; transform: rotate(90deg);}
+  100% { bottom: 400px; right: 60px; transform: rotate(20deg);}
+}
+
+
+/* FOLHA 8 */
+.folha8 {
+  position: absolute;
+  animation: folha8 infinite 16s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 8 */
+@keyframes folha8 {
+  0% { bottom: 20px; right: 320px; transform: rotate(60deg); }
+  25% { bottom: 100px; right: 250px; transform: rotate(130deg);}
+  50% { bottom: 230px; right: 400px; transform: rotate(180deg);}
+  100% { bottom: 20px; right: 320px; transform: rotate(420deg); }
+}
+
+/* FOLHA 9 */
+.folha9 {
+  position: absolute;
+  animation: folha9 infinite 16s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 9 */
+@keyframes folha9 {
+  0% { bottom: 0px; top: 0px; right: 800px; transform: rotate(60deg); }
+  25% { bottom: 0px; top: 90px; right: 450px; transform: rotate(120deg); }
+  50% { bottom: 0px; top: 160px; right: 605px; transform: rotate(210deg); }
+  100% { bottom: 0px; top: 0px; right: 800px; transform: rotate(60deg); }
+}
+
+/* FOLHA 10 */
+.folha10 {
+  position: absolute;
+  animation: folha10 infinite 9s;
+  opacity: 0.2;
+  margin: 100px;
+}
+
+/* ANIMAÇÃO FOLHA 10 */
+@keyframes folha10 {
+  0% { bottom: 0px; top: 0px; left: 100px; transform: rotate(60deg); }
+  25% { bottom: 90px; top: 0px; left: 350px; transform: rotate(120deg); }
+  50% { bottom: 160px; top: 0px; left: 195px; transform: rotate(210deg); }
+  100% { bottom: 0px; top: 0px; left: 100px; transform: rotate(60deg); }
+}
+
+
+/* FOLHA 11 */
+.folha11 {
+  position: absolute;
+  animation: folha11 infinite 9s;
+  opacity: 0.2;
+}
+
+/* ANIMAÇÃO FOLHA 10 */
+@keyframes folha11 {
+  0% { bottom: 0px; top: 0px; left: 500px; transform: rotate(60deg); }
+  25% { bottom: 180px; top: 50px; left: 200px; transform: rotate(120deg); }
+  50% { bottom: 280px; top: 410px; left: 100px; transform: rotate(10deg); }
+  100% { bottom: 0px; top: 0px; left: 500px; transform: rotate(60deg); }
+}

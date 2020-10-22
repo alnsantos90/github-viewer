@@ -1,0 +1,14 @@
+.orange {
+  background-color: #EE7656;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  padding: 12px 25px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s;
+} 
+
+.orange:hover {
+  background-color: #da6747;
+}

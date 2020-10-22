@@ -1,0 +1,10 @@
+.aside-box {
+  background: #EE7656;
+  width: 60vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+

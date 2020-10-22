@@ -1,0 +1,30 @@
+.item-user-box {
+  margin: 10px 22px;
+}
+
+.item-name {
+  font-family: 'Roboto';
+  font-size: 14px;
+  line-height: 16px;
+  color: #C9C9C9;
+}
+
+.item-title {
+  font-family: 'Roboto';
+  font-size: 48px;
+  line-height: 56px;
+  color: #000000;
+}
+
+.item-user {
+  font-family: 'Roboto';
+  font-size: 24px;
+  line-height: 28px;
+  color: #000000;
+}
+
+.item-description {
+  font-family: 'Roboto';  
+  font-size: 16px;
+  line-height: 30px;
+}

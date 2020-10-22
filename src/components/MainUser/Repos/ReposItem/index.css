@@ -1,0 +1,39 @@
+.repos-item-box {
+  width: 535px;
+  min-height: 50px;
+  background-color: #fff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px 7px;
+  margin-bottom: 30px;
+}
+
+.name-box-repos, .desc-box-repos {
+  display: flex;
+  align-items: center;
+  margin: 10px 7px;
+}
+
+.title-repo, .desc-title-repo {
+  font-family: 'Roboto';
+  font-size: 14px;
+  line-height: 16px;
+  color: #C9C9C9;
+  margin-right: 20px;
+}
+
+.name-repo {
+  font-family: 'Roboto';
+  font-size: 18px;
+  line-height: 21px;
+  text-decoration-line: underline;
+  color: #000000;
+}
+
+.desc-repo {
+  font-family: 'Roboto';
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+  }

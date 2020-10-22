@@ -1,0 +1,66 @@
+.box-search {
+  background-color: #fff;
+  width: 400px;
+  height: 230px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  box-shadow: 0px 0px 10px -10px rgba(0, 0, 0, 0.25);
+}
+
+.title-search {
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-size: 24px;
+  line-height: 28px;
+  color: #EE7656;
+  margin: 26px 0;
+}
+
+.search-input {
+  width: 80%;
+  margin: 0 20px 34px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #AEBCC5;
+  color:  #808080;
+  outline: none;
+  transition: all .3s;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.search-input:focus {
+  border-bottom: 1px solid #EE7656;
+}
+
+.button-box {
+  width: 100%;
+  height: 58px;
+  background-color: #EE7656;
+  box-shadow: 0px 0px 10px -10px rgba(0, 0, 0, 0.25);
+  border: transparent;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  position: relative;
+  top: 5px;
+  cursor: pointer;
+  transition: all .5s;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-box:hover {
+  background-color: #e66643;
+}
+
+.button-search {
+  font-size: 18px;
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  color: #fff;
+}

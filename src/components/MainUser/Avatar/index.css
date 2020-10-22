@@ -1,0 +1,32 @@
+.box-avatar {
+  width: 100%;
+  height: 100%;
+  max-width: 255px;
+  margin: 0 27px;
+  display: flex;
+  flex-direction: column;
+}
+.box-avatar img {
+  border-bottom: 5px solid #EE7656;
+  border-radius: 8px;
+}
+
+.visit-github {
+  font-size: 18px;
+  font-family: 'Roboto';
+  color: #fff;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #EE7656;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 4px 16px -8px rgba(1, 1, 1, 0.1);
+  text-decoration: none;
+  text-align: center;
+  transition: all .3s ease-in-out;
+  text-transform: uppercase;
+}
+
+.visit-github:hover {
+  background-color: #d45e3d;
+}

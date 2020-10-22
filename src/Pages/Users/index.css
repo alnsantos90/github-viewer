@@ -1,0 +1,18 @@
+
+.main-container {
+  width: 90%;
+  margin: 0 auto;
+  
+}
+
+.header-user {
+  width: 100%; 
+  background-color: #e5e5e5; 
+}
+
+.line-user {
+  margin: 0 auto;
+  height: 1px;
+  width: 92%;
+  background-color: #c9c7c7;
+}

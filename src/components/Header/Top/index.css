@@ -1,0 +1,34 @@
+.box-user {
+  margin: 50px 70px 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 85px;
+}
+
+.left-content {
+  margin: 0 20px;
+  display: flex;
+  align-items: center;
+}
+
+.right-content {
+  margin: 0 20px;
+  display: flex;
+  align-items: center;
+}
+
+.orange {
+  background-color: #EE7656;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  padding: 12px 25px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.3s;
+} 
+
+.orange:hover {
+  background-color: #da6747;
+}
