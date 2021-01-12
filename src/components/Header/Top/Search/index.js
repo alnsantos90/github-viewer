@@ -70,7 +70,7 @@ export default (props) => {
   }
 
   return (
-    <form onSubmit={handleSubmit(pesquisa)}>
+    <form onSubmit={this.handleSubmit(pesquisa)}>
       <input
         className="search-user"
         type="text"
