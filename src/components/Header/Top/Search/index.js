@@ -70,14 +70,16 @@ export default (props) => {
   }
 
   return (
-    <form onSubmit={this.handleSubmit(pesquisa)}>
+    <>
       <input
         className="search-user"
         type="text"
         placeholder={props.placeholder}
         onChange={changeValue}
       />
-      <button className="orange">Pesquisar</button>
-    </form>
+      <button className="orange" onClick={() => handleSubmit(pesquisa)}>
+        Pesquisar
+      </button>
+    </>
   );
 };
