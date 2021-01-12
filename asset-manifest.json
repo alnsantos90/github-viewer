@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/github-viewer/static/css/main.e5f3f58f.chunk.css",
+    "main.js": "/github-viewer/static/js/main.658c5948.chunk.js",
+    "main.js.map": "/github-viewer/static/js/main.658c5948.chunk.js.map",
+    "runtime-main.js": "/github-viewer/static/js/runtime-main.4ba0188c.js",
+    "runtime-main.js.map": "/github-viewer/static/js/runtime-main.4ba0188c.js.map",
+    "static/js/2.1d58f25e.chunk.js": "/github-viewer/static/js/2.1d58f25e.chunk.js",
+    "static/js/2.1d58f25e.chunk.js.map": "/github-viewer/static/js/2.1d58f25e.chunk.js.map",
+    "index.html": "/github-viewer/index.html",
+    "precache-manifest.f21f7692430ce8afca59b0d96088970b.js": "/github-viewer/precache-manifest.f21f7692430ce8afca59b0d96088970b.js",
+    "service-worker.js": "/github-viewer/service-worker.js",
+    "static/css/main.e5f3f58f.chunk.css.map": "/github-viewer/static/css/main.e5f3f58f.chunk.css.map",
+    "static/js/2.1d58f25e.chunk.js.LICENSE.txt": "/github-viewer/static/js/2.1d58f25e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github-viewer/static/media/Roboto-Thin.321de678.ttf",
+    "static/media/folha1.png": "/github-viewer/static/media/folha1.c4badf75.png",
+    "static/media/folha2.png": "/github-viewer/static/media/folha2.33773290.png",
+    "static/media/folha3.png": "/github-viewer/static/media/folha3.7a788c08.png",
+    "static/media/folha4.png": "/github-viewer/static/media/folha4.e7afb0f6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ba0188c.js",
+    "static/js/2.1d58f25e.chunk.js",
+    "static/css/main.e5f3f58f.chunk.css",
+    "static/js/main.658c5948.chunk.js"
+  ]
+}
