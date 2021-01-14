@@ -35,7 +35,7 @@ export default (props) => {
           placeholder={props.placeholder}
         />
         <div className="button-box">
-          <Link to={'/user/'} className="button-search">
+          <Link to={'/user/'} className="button-search" onClick={handleSearchUsers}>
             PESQUISAR USUÁRIO
           </Link>
         </div>
